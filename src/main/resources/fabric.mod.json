@@ -22,7 +22,9 @@
         "main": [
             "net.dodogang.sizzle.Sizzle"
         ],
-        "client": [],
+        "client": [
+            "net.dodogang.sizzle.SizzleClient"
+        ],
         "server": []
     },
     "mixins": [

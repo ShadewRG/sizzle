@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hyphaeen_trapdoor",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "sizzle:fungi_planks"
+    }
+  },
+  "result": {
+    "item": "sizzle:fungi_trapdoor",
+    "count": 2
+  }
+}

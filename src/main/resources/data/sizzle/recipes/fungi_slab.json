@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hyphaeen_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "sizzle:fungi_planks"
+    }
+  },
+  "result": {
+    "item": "sizzle:fungi_slab",
+    "count": 6
+  }
+}

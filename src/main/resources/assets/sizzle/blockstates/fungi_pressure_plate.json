@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "sizzle:block/fungi_pressure_plate"
+    },
+    "powered=true": {
+      "model": "sizzle:block/fungi_pressure_plate_down"
+    }
+  }
+}

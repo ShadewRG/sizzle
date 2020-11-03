@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "sizzle:fungi_stem",
+        "sizzle:fungi_hyphae",
+        "sizzle:stripped_fungi_stem",
+        "sizzle:stripped_fungi_hyphae"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "sizzle:fungi_stems"
+    }
+  ],
+  "result": {
+    "item": "sizzle:fungi_planks",
+    "count": 4
+  }
+}

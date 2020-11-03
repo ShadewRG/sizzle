@@ -1,5 +1,6 @@
 package net.dodogang.sizzle;
 
+import net.dodogang.sizzle.init.*;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.minecraft.item.ItemGroup;
@@ -26,7 +27,7 @@ public class Sizzle implements ModInitializer {
     public void onInitialize() {
         log("Initializing");
 
-        //
+        new SBlocks();
 
         log("Initialized");
     }

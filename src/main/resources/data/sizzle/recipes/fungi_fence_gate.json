@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hyphaeen_fence_gate",
+  "pattern": [
+    "#W#",
+    "#W#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "sizzle:fungi_planks"
+    }
+  },
+  "result": {
+    "item": "sizzle:fungi_fence_gate"
+  }
+}

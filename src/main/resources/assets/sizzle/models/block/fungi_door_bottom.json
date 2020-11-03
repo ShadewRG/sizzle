@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom",
+  "textures": {
+    "top": "sizzle:block/fungi_door_top",
+    "bottom": "sizzle:block/fungi_door_bottom"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "sizzle:recipes/root",
+  "rewards": {
+    "recipes": [
+      "sizzle:stripped_fungi_hyphae"
+    ]
+  },
+  "criteria": {
+    "has_stem": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sizzle:stripped_fungi_stem"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "sizzle:stripped_fungi_hyphae"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_stem",
+      "has_the_recipe"
+    ]
+  ]
+}

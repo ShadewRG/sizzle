@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "hyphaeen_button",
+  "ingredients": [
+    {
+      "item": "sizzle:fungi_planks"
+    }
+  ],
+  "result": {
+    "item": "sizzle:fungi_button"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "sizzle:recipes/root",
+  "rewards": {
+    "recipes": [
+      "sizzle:fungi_sign"
+    ]
+  },
+  "criteria": {
+    "has_fungi_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sizzle:fungi_planks"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "sizzle:fungi_sign"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_fungi_planks",
+      "has_the_recipe"
+    ]
+  ]
+}

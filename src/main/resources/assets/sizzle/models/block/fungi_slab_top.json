@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "sizzle:block/fungi_planks",
+    "top": "sizzle:block/fungi_planks",
+    "side": "sizzle:block/fungi_planks"
+  }
+}
